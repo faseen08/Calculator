@@ -1,0 +1,26 @@
+.calc
+{
+    width: 400px;
+    height: 600px;
+    background: black;
+    margin-left: 400px;
+}
+#screen
+{
+    width: 80%;
+    height: 35px;
+    margin-left: 35px;
+    margin-top: 35px;
+    pointer-events: none;
+    background-color: darkgray;
+}
+.btn
+{
+    width: 66px;
+    height: 46px;
+    margin-left: 25px;
+    margin-top: 40px;
+    background: black;
+    color: yellow;
+    border-color: yellow;
+}
